@@ -1,11 +1,8 @@
-### welcome, my name's Thomas!
-
-
-I'm a Full-stack Web Developer and aspiring Mobile Developer, with goals to delve into ML and Android App Development. 
+### Doin, my name's Thomas!
 
  🔭 I’m planning for a Project **Routefinder for SF Public Transport**.
  
- 🌱 I’m currently learning <img src="[http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)"> React 
+ 🌱 I’m currently learning <img src="[http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)">React 
 
 ### Tech & Tools Preference
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
