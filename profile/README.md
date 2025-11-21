@@ -1,4 +1,4 @@
-### Doin, my name's Thomas!
+### hi, I'm Thomas
 
  🔭 I’m planning for a Project **Routefinder for SF Public Transport**.
  
